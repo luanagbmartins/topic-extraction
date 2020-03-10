@@ -22,4 +22,17 @@ pip install -r requirements.txt
 
 The dataset used was the [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/) wich contains product reviews from Amazon.
 
+## Results
+For the Grocery and Gourmet Food ratings file we've got:
+
+![Intertopic Distance Map](https://github.com/luanagbmartins/topic-extraction/blob/master/figures/intertopic-distance-map.png)
+
+
+![WordCloud](https://github.com/luanagbmartins/topic-extraction/blob/master/figures/topic-0.png)
+![WordCloud](https://github.com/luanagbmartins/topic-extraction/blob/master/figures/topic-1.png)
+![WordCloud](https://github.com/luanagbmartins/topic-extraction/blob/master/figures/topic-2.png)
+![WordCloud](https://github.com/luanagbmartins/topic-extraction/blob/master/figures/topic-3.png)
+![WordCloud](https://github.com/luanagbmartins/topic-extraction/blob/master/figures/topic-4.png)
+
+
 
