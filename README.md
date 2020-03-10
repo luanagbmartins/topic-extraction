@@ -19,3 +19,7 @@ pip install -r requirements.txt
 ## Descriptions
 
 ### Datasets
+
+The dataset used was the [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/) wich contains product reviews from Amazon.
+
+
